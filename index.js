@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["Watching Japanese show","Listening to Gabriel","Playing Japanese games"];
 
 
 let currentIndex = 0;
